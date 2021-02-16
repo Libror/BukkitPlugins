@@ -1,0 +1,4 @@
+name: Achievementkill
+version: 1.0
+main: com.libroru.achievementkill.Achievementkill
+api-version: 1.16
